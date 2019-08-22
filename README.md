@@ -25,7 +25,7 @@ img2017: Line follower(using camera)
 finalarena.wml - simulation of Arena and bot
 </li>
 
-<h3> Screenshots </h3>
+<h2> Screenshots </h2>
 <li>
 Results of live runs when deployed on target hardware.
 </li>
