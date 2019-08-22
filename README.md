@@ -26,4 +26,6 @@ finalarena.wml - simulation of Arena and bot
 </li>
 
 <h3> Screenshots </h3>
+<li>
 Results of live runs when deployed on target hardware.
+</li>
